@@ -1,0 +1,19 @@
+
+.part1{
+    background-color: #ff6600;
+    height: 200px;
+}
+.part2{
+
+    height: 200px;
+}
+.part3{
+    background-color: #424242;
+    height:200px;
+}
+
+p{
+    text-align: center;
+    font-size: 200px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
