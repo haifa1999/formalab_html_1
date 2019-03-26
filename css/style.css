@@ -28,3 +28,6 @@ p.vert
 .a :hover {
     color:green; text decoration :line ;
 }
+.a:visited {
+    color:grey;
+}
