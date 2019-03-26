@@ -21,17 +21,25 @@ p.vert
 .bord {
     border: 2px solid green;
 }
-a :
+a
 {
-    color:red;text-decoration :noneS ;
+    color:red;
+    text-decoration :none ;
 }
-a :hover {
-    color:green; text-decoration :underline ;
+a:hover {
+    color:green;
+    text-decoration :underline ;
 }
 a:visited {
     color:grey;
 }
 p{font-family: Arial, Helvetica, sans-serif;}
-p{font-size : 0%; }
+p{font-size : 100%; }
 p{font-style:  inherit;}
 p{font-weight:500; }
+p{text-align:center;}
+p{color :rgb (red, green, blue)}
+body{background-color: rgba(250,20,0, 219 ); }
+body {background-image: url("C:\Users\lenovo\Desktop\formalab-web\formalab_html_1\image\vecteur-dessin-anime-or-scorpion_16776-93.jpg")}
+body {background-position: center top}
+body {background-attachment: fixed;}
