@@ -21,3 +21,10 @@ p.vert
 .bord {
     border: 2px solid green;
 }
+.a :
+{
+    color:red;text decoration :none ;
+}
+.a :hover {
+    color:green; text decoration :line ;
+}
