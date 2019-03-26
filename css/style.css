@@ -40,6 +40,8 @@ p{font-weight:500; }
 p{text-align:center;}
 p{color :rgb (red, green, blue)}
 body{background-color: rgba(250,20,0, 219 ); }
-body {background-image: url("C:\Users\lenovo\Desktop\formalab-web\formalab_html_1\image\vecteur-dessin-anime-or-scorpion_16776-93.jpg")}
-body {background-position: center top}
+body {background-image: url('../image/vecteur-dessin-anime-or-scorpion_16776-93.jpg');background-repeat: no-repeat;}
+body {background-position: center top;}
 body {background-attachment: fixed;}
+body {border:3px rebeccapurple dotted;}
+border-radius:15px ;
