@@ -19,5 +19,5 @@ p.vert
     color : green ; 
 }
 .bord {
-    color: tpx solid green;
+    border: 2px solid green;
 }
