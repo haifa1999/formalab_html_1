@@ -44,4 +44,11 @@ body {background-image: url('../image/vecteur-dessin-anime-or-scorpion_16776-93.
 body {background-position: center top;}
 body {background-attachment: fixed;}
 body {border:3px rebeccapurple dotted;}
-border-radius:15px ;
+.hh{border-radius:15px ;}
+.ii{margin 2px;}
+
+body { 
+    height: 50px;
+    width: 50%;
+}
+
